@@ -1,0 +1,12 @@
+[2022-02-01 17:48:07.433] [remoteagent] [info] Installing extension: ms-python.python
+[2022-02-01 17:48:08.190] [remoteagent] [info] Downloaded extension: ms-python.python /mnt/code/.vscode/CachedExtensionVSIXs/ms-python.python-2021.5.926500501
+[2022-02-01 17:48:10.893] [remoteagent] [info] Extracted extension to /home/ubuntu/.local/share/code-server/extensions/.62c51e4f-9ddc-4fe7-9935-9c36f69a7958: ms-python.python
+[2022-02-01 17:48:10.909] [remoteagent] [info] Renamed to /home/ubuntu/.local/share/code-server/extensions/ms-python.python-2021.5.926500501
+[2022-02-01 17:48:10.913] [remoteagent] [info] Installation completed. ms-python.python
+[2022-02-01 17:48:11.282] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2022-02-01 17:48:12.140] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter /mnt/code/.vscode/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.6.832593372
+[2022-02-01 17:48:12.610] [remoteagent] [info] Extracted extension to /home/ubuntu/.local/share/code-server/extensions/.040b7a60-9218-4342-851c-7b360784bd19: ms-toolsai.jupyter
+[2022-02-01 17:48:12.621] [remoteagent] [info] Renamed to /home/ubuntu/.local/share/code-server/extensions/ms-toolsai.jupyter-2021.6.832593372
+[2022-02-01 17:48:12.626] [remoteagent] [info] Installation completed. ms-toolsai.jupyter
+[2022-02-01 17:48:12.633] [remoteagent] [info] Extensions installed successfully: ms-toolsai.jupyter
+[2022-02-01 17:48:12.638] [remoteagent] [info] Extensions installed successfully: ms-python.python
